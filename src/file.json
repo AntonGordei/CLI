@@ -1,0 +1,140 @@
+[
+  {
+    "name": "change",
+    "parameters": "23 PLN BYN",
+    "res": {
+      "error": false,
+      "value": 12.92518971
+    },
+    "date": 1582562073152
+  },
+  {
+    "name": "change",
+    "parameters": "23 PLN BYN",
+    "res": {
+      "error": false,
+      "value": 12.92518971
+    },
+    "date": 1582562116773
+  },
+  {
+    "name": "change",
+    "parameters": "213 PLN BYN",
+    "res": {
+      "error": false,
+      "value": 119.69849601
+    },
+    "date": 1582562138508
+  },
+  {
+    "name": "quota",
+    "parameters": "mi",
+    "res": {
+      "error": false,
+      "value": {
+        "price": "0.3500",
+        "volume": "5000"
+      }
+    },
+    "date": 1582562268263
+  },
+  {
+    "name": "quota",
+    "parameters": "midsffds",
+    "res": {
+      "error": true,
+      "msg": "Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for GLOBAL_QUOTE."
+    },
+    "date": 1582562287949
+  },
+  {
+    "name": "quota",
+    "parameters": "midsffds",
+    "res": {
+      "error": false,
+      "value": []
+    },
+    "date": 1582562291515
+  },
+  {
+    "name": "quota",
+    "parameters": "midsffds",
+    "res": {
+      "error": false,
+      "value": []
+    },
+    "date": 1582562386474
+  },
+  {
+    "name": "quota",
+    "parameters": "abcdedsdsfdssd",
+    "res": {
+      "error": false,
+      "value": []
+    },
+    "date": 1582562418234
+  },
+  {
+    "name": "change",
+    "parameters": "213 PLN BYN",
+    "res": {
+      "error": false,
+      "value": 119.71658184
+    },
+    "date": null
+  },
+  {
+    "name": "change",
+    "parameters": "213 PLN BYN",
+    "res": {
+      "error": false,
+      "value": 119.71960005000001
+    },
+    "date": "Mon Feb 24 2020 19:54:59 GMT+0300 (GMT+03:00)"
+  },
+  {
+    "name": "change",
+    "parameters": "213 PLNыва BYNы",
+    "res": {
+      "error": true,
+      "msg": "No response"
+    },
+    "date": "Mon Feb 24 2020 20:04:42 GMT+0300 (GMT+03:00)"
+  },
+  {
+    "name": "change",
+    "parameters": "21dfs3 PLN BYN",
+    "res": {
+      "error": false,
+      "value": 11.79814482
+    },
+    "date": "Mon Feb 24 2020 20:05:01 GMT+0300 (GMT+03:00)"
+  },
+  {
+    "name": "change",
+    "parameters": "21 PLN BYN",
+    "res": {
+      "error": false,
+      "value": 11.79814482
+    },
+    "date": "Mon Feb 24 2020 20:05:31 GMT+0300 (GMT+03:00)"
+  },
+  {
+    "name": "change",
+    "parameters": "ghj21 PLN BYN",
+    "res": {
+      "error": false,
+      "value": 0
+    },
+    "date": "Mon Feb 24 2020 20:05:46 GMT+0300 (GMT+03:00)"
+  },
+  {
+    "name": "change",
+    "parameters": "2144 USd BYN",
+    "res": {
+      "error": false,
+      "value": 4777.059285439999
+    },
+    "date": "Mon Feb 24 2020 20:09:58 GMT+0300 (GMT+03:00)"
+  }
+]
